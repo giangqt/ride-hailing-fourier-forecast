@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+agg_cache/
+rolling_sarimax_cache*/
+*.pkl
